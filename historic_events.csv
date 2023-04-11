@@ -1,0 +1,211 @@
+event, year, type
+Thales, -624, birth
+Pythagoras, -570, birth
+Cyrus the Great, -559, birth
+Darius I, -522, birth
+Xerxes I, -486, birth
+Leonidas, -480, birth
+Socrates, -470, birth
+Plato, -427, birth
+Euclid, -300, birth
+Aristotle, -384, birth
+Archemides, -287, birth
+Jesus Christ, 0, birth
+Ptolemy, 90, birth
+Julius Caesar, 100, birth
+Alexander the Great, 356, birth
+Mohammed, 570, birth
+Khwarizmi, 780, birth
+Ferdowsi, 940, birth
+Avicenna, 980, birth
+Omar Khayyam, 1048, birth
+Nezami Ganjavi, 1141, birth
+Genghis Khan, 1162, birth
+Altair Ibn-La'Ahad, 1165, birth
+Fibonacci, 1170, birth
+Saadi, 1210, birth
+Hafez, 1325, birth
+Lorenzo de Medici, 1449, birth
+Christopher Columbus, 1451, birth
+Leonardo da Vinci, 1452, birth
+Ezio Auditore, 1459, birth
+Michelangelo, 1475, birth
+Galileo Galilei, 1564, birth
+William Shakespeare, 1564, birth
+Johannes Kepler, 1571, birth
+Rene Descartes, 1596, birth
+Fermat, 1607, birth
+Isaac Newton, 1643, birth
+Edward Kenway, 1693, birth
+Johann Bernoulli, 1700, birth
+Leonard Euler, 1707, birth
+George Washington, 1732, birth
+James Watt, 1736, birth
+Joesph-Louis Lagrange, 1736, birth
+Antoine Lavoisier, 1743, birth
+Pierre-Simon Laplace, 1749, birth
+Joseph Fourier, 1768, birth
+Napoleon Bonaparte, 1769, birth
+Carl Freidrich Gauss, 1777, birth
+Simeon Denis Poisson, 1781, birth
+Charles Darwin, 1809, birth
+Charles Dickens, 1812, birth
+Ada Lovelace, 1815, birth
+Karl Marx, 1818, birth
+Dostoyevsky, 1821, birth
+Maxwell, 1831, birth
+Dimitri Mendeleev, 1834, birth
+Karl Benz, 1844, birth
+Wilhelm Rontgen, 1845, birth
+Thomas Edison, 1847, birth
+Nikola Tesla, 1856, birth
+Henri Poincare, 1854, birth
+Heinrich Hertz, 1857, birth
+Marie Curie, 1867, birth
+Albert Einstein, 1879, birth
+Alexander Fleming, 1881, birth
+Niels Bohr, 1885, birth
+Henry Mosely, 1887, birth
+Erwin Schrodinger, 1887, birth
+Hubble, 1889, birth
+Werner Heisenberg, 1901, birth
+Enrico Fermi, 1901, birth
+Paul Dirac, 1902, birth
+Alan Turing, 1912, birth
+Richard Feynman, 1918, birth
+Stephen Hawking, 1942, birth
+Bill Gates, 1955, birth
+Steve Jobs, 1955, birth
+Jeff Bezos, 1964, birth
+Elon Musk, 1971, birth
+Larry Page, 1973, birth
+Sergey Brin, 1973, birth
+Mark Zuckerberg, 1984, birth
+Gholamreza Dar, 1999, birth
+Paper, 105, invention
+Telephone, 1876, invention
+Radio, 1895, invention
+Television, 1927, invention
+Computer, 1936, invention
+Internet, 1969, invention
+Satellite, 1957, invention
+GPS, 1973, invention
+Pyramids of Giza, -2580, construction
+Temple of Artemis, -550, construction
+Hagia Sophia, -532, construction
+Persepolis, -518, construction
+Parthenon, -447, construction
+Statue of Zeus, -460, construction
+Mausoleum at Halicarnassus, -350, construction
+Colossus of Rhodes, -280, construction
+Lighthouse of Alexandria, -280, construction
+Colossus of Alexandria, -250, construction
+Great Wall of China, -221, construction
+Colosseum, 80, construction
+Tower of London, 1078, construction
+Davids Statue, 1504, construction
+Notre Dame, 1163, construction
+Tower of Pisa, 1173, construction
+St. Basil's Cathedral, 1555, construction
+Taj Mahal, 1632, construction
+Louvre Museum, 1793, construction
+Big Ben, 1859, construction
+Eiffel Tower, 1889, construction
+Statue of Liberty, 1886, construction
+Golden Gate Bridge, 1937, construction
+Twin Towers, 1972, construction
+London Eye, 1999, construction
+Burj al Arab, 1999, construction
+Burj Khalifa, 2010, construction
+Artificial Intelligence, 1956, technology
+Microsoft, 1975, technology
+Digital Camera, 1975, technology
+Computer Mouse, 1976, technology
+Apple, 1976, technology
+Quantum Computing, 1980, technology
+Pixar, 1986, technology
+Walt Disney, 1986, technology
+Photoshop, 1988, technology
+WWW, 1990, technology
+OpenGL, 1992, technology
+Nvidia, 1993, technology
+Amazon, 1994, technology
+DirectX, 1995, technology
+Netflix, 1997, technology
+Google, 1998, technology
+Wikipedia, 2001, technology
+SpaceX, 2002, technology
+Tesla, 2003, technology
+Facebook, 2004, technology
+Twitter, 2006, technology
+Iphone, 2007, technology
+Airbnb, 2008, technology
+Bitcoin, 2009, technology
+Uber, 2009, technology
+Instagram, 2010, technology
+Snapchat, 2011, technology
+GTX 680, 2012, technology
+AlexNet, 2012, technology
+Telegram, 2013, technology
+GTX 780, 2013, technology
+GTX 980, 2014, technology
+TikTok, 2016, technology
+GTX 1080, 2016, technology
+Transformers, 2017, technology
+BERT, 2018, technology
+RTX 2080, 2018, technology
+GPT 3, 2020, technology
+RTX 3080, 2020, technology
+RTX 4080, 2022, technology
+Lisp, 1958, programming language
+C, 1972, programming language
+Prolog, 1972, programming language
+C++, 1983, programming language
+Erlang, 1986, programming language
+Perl, 1987, programming language
+Haskell, 1990, programming language
+Python, 1991, programming language
+Lua, 1993, programming language
+R, 1993, programming language
+Java, 1995, programming language
+Java, 1995, programming language
+Ruby, 1995, programming language
+Javascript, 1995, programming language
+PHP, 1995, programming language
+OCaml, 1996, programming language
+C#, 2000, programming language
+Scala, 2003, programming language
+F#, 2005, programming language
+Clojure, 2007, programming language
+Go, 2009, programming language
+Node.js, 2009, programming language
+Rust, 2010, programming language
+Kotlin, 2011, programming language
+Dart, 2011, programming language
+Julia, 2012, programming language
+Elixir, 2012, programming language
+Typescript, 2012, programming language
+React, 2013, programming language
+Vue.js, 2014, programming language
+Swift, 2014, programming language
+Angular, 2016, programming language
+Svelte, 2016, programming language
+Zig, 2019, programming language
+Renaisance, 1400, event
+America Discovery, 1492, event
+French Revolution, 1789, event
+Industrial Revolution, 1760, event
+American Revolution, 1776, event
+America Civil War, 1861, event
+WW I, 1914, event
+Holocaust, 1933, event
+WW II, 1939, event
+Cold War, 1947, event
+Korean War, 1950, event
+Vietnam War, 1955, event
+Islamic Revolution, 1979, event
+Iran-Iraq War, 1980, event
+Gulf War, 1990, event
+War on Terror, 2001, event
+COVID-19, 2020, event
+911, 2001, event
