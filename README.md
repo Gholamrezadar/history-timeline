@@ -1,5 +1,5 @@
 # History Timeline
-A timeline of some cherry-picked historic events from 2800 BC to 2023 AD.
+A timeline of some cherry-picked historic events from 2800 BC to 2023 AD. Data for this project was gathered partly by GitHub Copilot /: so false information could be in the data.
 
 ## Data
 Dataset available in the repo: `historic_events.csv`
