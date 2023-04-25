@@ -12,8 +12,8 @@ Aristotle, -384, birth
 Archemides, -287, birth
 Jesus Christ, 0, birth
 Ptolemy, 90, birth
-Julius Caesar, 100, birth
-Alexander the Great, 356, birth
+Julius Caesar, -100, birth
+Alexander the Great, -356, birth
 Mohammed, 570, birth
 Khwarizmi, 780, birth
 Ferdowsi, 940, birth
@@ -99,7 +99,6 @@ Statue of Zeus, -460, construction
 Mausoleum at Halicarnassus, -350, construction
 Colossus of Rhodes, -280, construction
 Lighthouse of Alexandria, -280, construction
-Colossus of Alexandria, -250, construction
 Great Wall of China, -221, construction
 Colosseum, 80, construction
 Tower of London, 1078, construction
@@ -167,7 +166,6 @@ Haskell, 1990, programming language
 Python, 1991, programming language
 Lua, 1993, programming language
 R, 1993, programming language
-Java, 1995, programming language
 Java, 1995, programming language
 Ruby, 1995, programming language
 Javascript, 1995, programming language
